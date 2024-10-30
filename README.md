@@ -1,1 +1,1 @@
-# Search-Daima-Collect
+# Daima-Collector
